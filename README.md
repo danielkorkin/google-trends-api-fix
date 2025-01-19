@@ -1,10 +1,10 @@
-# google-trends-api
+# google-trends-api-fix
 
 ### Implements fixes from [#167](https://github.com/pat310/google-trends-api/pull/167)
 
-[![NPM](https://nodei.co/npm/google-trends-api.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/google-trends-api/)
+[![NPM](https://nodei.co/npm/google-trends-api-fix.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/google-trends-api-fix/)
 
-[![npm version](https://badge.fury.io/js/google-trends-api.svg)](https://badge.fury.io/js/google-trends-api)
+[![npm version](https://badge.fury.io/js/google-trends-api-fix.svg)](https://badge.fury.io/js/google-trends-api-fix)
 [![Build status](https://img.shields.io/travis/pat310/google-trends-api.svg?style=flat-square)](https://travis-ci.org/pat310/google-trends-api/)
 [![Coverage Status](https://coveralls.io/repos/github/pat310/google-trends-api/badge.svg?branch=master)](https://coveralls.io/github/pat310/google-trends-api?branch=master)
 [![Code Climate](https://codeclimate.com/github/pat310/google-trends-api/badges/gpa.svg)](https://codeclimate.com/github/pat310/google-trends-api)
@@ -19,7 +19,7 @@ This library provides an API layer to [google trends](https://www.google.com/tre
 
 ### Syntax
 ```js
-const googleTrends = require('google-trends-api');
+const googleTrends = require('google-trends-api-fix');
 
 googleTrends.apiMethod(optionsObject, [callback])
 ```
@@ -72,7 +72,7 @@ npm install google-trends-api
 Require google-trends-api in your script and give it a variable name:
 
 ```js
-const googleTrends = require('google-trends-api');
+const googleTrends = require('google-trends-api-fix');
 ```
 
 You will now be able to access methods on `googleTrends`.  See the [API Methods section](#api-methods) below to see the methods available and their syntax.

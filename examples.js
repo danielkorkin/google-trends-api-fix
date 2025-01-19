@@ -1,6 +1,6 @@
 'use strict';
 
-// var googleTrends = require('./lib/google-trends-api.min.js');
+// var googleTrends = require('./lib/google-trends-api-fix.min.js');
 
 /* ******************* Autocomplete **************************/
 
