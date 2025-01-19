@@ -1,5 +1,7 @@
 # google-trends-api
 
+### Implements fixes from [#167](https://github.com/pat310/google-trends-api/pull/167)
+
 [![NPM](https://nodei.co/npm/google-trends-api.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/google-trends-api/)
 
 [![npm version](https://badge.fury.io/js/google-trends-api.svg)](https://badge.fury.io/js/google-trends-api)
